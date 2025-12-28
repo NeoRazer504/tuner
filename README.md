@@ -1,5 +1,5 @@
 # Tuner
-This is a chromatic instrument tuner I made for myself because I'm a band nerd and I need a better tuner so instead of buying one, I thought it would be better to make one :).
+This is a chromatic instrument tuner I made for myself because I'm a band nerd and I need a better tuner so instead of buying one, I thought it would be better to make one :). (This is my first custom non guided project so hope it works).
 ## Features
 - Powered by a Xiao nRF52840
 - Built in microphone and a jack so you can choose to use a external mic instead
