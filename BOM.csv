@@ -1,8 +1,8 @@
 Item,Description,URL,Cost
 Xiao nRF52840,Microcontroller,https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/102010448/16652893,$9.99
-3 LEDs,Pitch indicators, ,Already Have
-3 220Ω Resistors,Resistors for LEDs, ,Already Have
-2 Buttons,Hertz controllers, ,Already Have
+3 LEDs,Pitch indicators,https://www.digikey.com/en/products/detail/american-opto-plus-led/L513SRD-C/13556881,Already Have
+3 220Ω Resistors,Resistors for LEDs,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CFM14JT220R/1742139,Already Have
+2 Buttons,Hertz controllers,https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices-/TS02-66-43-BK-100-LCR-D/15634359,Already Have
 2.42″ 2.42 inch OLED Display Module,OLED display,https://www.esp32s.com/product/2-42-2-42-inch-oled-display-module-128x64-lcd-hd-screen-module-ssd1309-7-pin-spi-iic-i2c-serial-interface-for-arduino-uno-r3,$9.05
 Adafruit I2S MEMS SPH0645LM4H,Microphone,https://www.adafruit.com/product/3421,$6.95
 Adafruit LiIon/LiPoly Backpack Add-On for Pro Trinket/ItsyBitsy,Battery charging add-on,https://www.adafruit.com/product/2124,$4.95
@@ -14,4 +14,5 @@ EG1201A,Switch to turn on and off,https://www.digikey.com/en/products/detail/e-s
 2 04M020040HN,Nuts for switch,https://www.digikey.com/en/products/detail/essentra-components/04M020040HN/9677098,$0.30
 4 6007,Screws to attach top and bottom part of the case,https://www.digikey.com/en/products/detail/serpac/6007/307639,$1.56
 3D prints, , ,
-Total cost, , ,$55.99 + 18.07 for shipping = 74.06
+PCB, ,https://jlcpcb.com/,$7.30
+Total cost, , ,$63.29 + 21.37 for shipping = 84.66
