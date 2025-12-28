@@ -6,6 +6,7 @@ This is a chromatic instrument tuner I made for myself because I'm a band nerd a
 - 2.42" OLED
 - 3 LEDs to indicate if you're flat, sharp, or in tune
 - 2 buttons to adjust hertz
+- 500 mAh battery
 ## Gallery
 <img width="2137" height="1223" alt="image" src="https://github.com/user-attachments/assets/a69820f3-27cb-4e53-89dd-4cdb3073a8eb" />
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/8a5d5003-7e56-4c82-bc8c-ca777473f92d" />
