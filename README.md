@@ -11,5 +11,6 @@ This is a chromatic instrument tuner I made for myself because I'm a band nerd a
 <img width="2137" height="1223" alt="image" src="https://github.com/user-attachments/assets/a69820f3-27cb-4e53-89dd-4cdb3073a8eb" />
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/8a5d5003-7e56-4c82-bc8c-ca777473f92d" />
 <img width="897" height="527" alt="image" src="https://github.com/user-attachments/assets/519cfeb4-cecc-465d-941c-025ebb6e6fb3" />
-<img width="1722" height="1039" alt="image" src="https://github.com/user-attachments/assets/a05a611a-57e3-45cc-9887-b43bc334f6b2" />
+<img width="1080" height="815" alt="image" src="https://github.com/user-attachments/assets/1baed713-7be2-41e2-86a4-d8c72ed42178" />
+
 
